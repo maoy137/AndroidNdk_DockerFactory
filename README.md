@@ -1,4 +1,4 @@
-# What is AndroidSdk_DockerFactory?
+# What is Android_DockerFactory?
 
 It is a building docker image with android sdk porject.We hope it can reduce CICD times.
 
@@ -21,6 +21,10 @@ If you want to update the android sdk version , please update these variables on
 
   Your sdk tools version.
   
+**ANDROID_NDK_TOOLS: "r16"**
+
+  Your ndk tools version.
+
 # Version
 
 Now , android sdk images which we provide are:
